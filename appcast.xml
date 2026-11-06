@@ -1,6 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>V-Cap</title>
+        <item>
+            <title>1.12.1</title>
+            <pubDate>Fri, 06 Nov 2026 17:13:06 +0800</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1.12.1</sparkle:version>
+            <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TS0049/v-cap-releases/releases/download/v1.12.1/V-Cap-v1.12.1.zip" length="10267657" type="application/octet-stream" sparkle:edSignature="fpEg4lUpdxP1Do9Ch/O8mqhryGccSIWdlz5flucYvIH00Uo8sqJPQm8NsbdagyTlUbTIf8XlOVXn+mCMMS++Bw=="/>
+        </item>
     </channel>
 </rss>
