@@ -3,6 +3,15 @@
     <channel>
         <title>V-Cap</title>
         <item>
+            <title>1.12.2</title>
+            <pubDate>Fri, 06 Nov 2026 17:34:56 +0800</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1.12.2</sparkle:version>
+            <sparkle:shortVersionString>1.12.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TS0049/v-cap-releases/releases/download/v1.12.2/V-Cap-v1.12.2.zip" length="10274881" type="application/octet-stream" sparkle:edSignature="FwwYJCgikjYlY3epoQOVulipF6bRaRHYAII0QcpKMQjurbTcKrVvqTYU6JsrEbkbrDBvrksMUfxqsNSyc9lGDA=="/>
+        </item>
+        <item>
             <title>1.12.1</title>
             <pubDate>Fri, 06 Nov 2026 17:13:06 +0800</pubDate>
             <sparkle:channel>beta</sparkle:channel>
