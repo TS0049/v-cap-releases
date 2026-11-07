@@ -3,6 +3,15 @@
     <channel>
         <title>V-Cap</title>
         <item>
+            <title>1.14.1</title>
+            <pubDate>Sat, 07 Nov 2026 08:43:10 +0800</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1.14.1</sparkle:version>
+            <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TS0049/v-cap-releases/releases/download/v1.14.1/V-Cap-v1.14.1.zip" length="11457092" type="application/octet-stream" sparkle:edSignature="EJKl2GJeR8wKE01vpDQPyv92hI6LpotDmFUfMy0AO3JRNuWXo1CoCgoMPY0kvu/Ksinb26NwqsQ2gR3QPxAQAw=="/>
+        </item>
+        <item>
             <title>1.14.0</title>
             <pubDate>Sat, 07 Nov 2026 06:58:45 +0800</pubDate>
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
