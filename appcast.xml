@@ -4,8 +4,8 @@
         <title>V-Cap</title>
         <item>
             <title>1.19.0</title>
-            <pubDate>Mon, 09 Nov 2026 09:39:56 +0800</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
+            <pubDate>Mon, 09 Nov 2026 10:21:00 +0800</pubDate>
+            <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
             <sparkle:version>1.19.0</sparkle:version>
             <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
