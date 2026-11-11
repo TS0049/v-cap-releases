@@ -3,6 +3,15 @@
     <channel>
         <title>V-Cap</title>
         <item>
+            <title>1.22.0</title>
+            <pubDate>Wed, 11 Nov 2026 18:08:33 +0800</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1.22.0</sparkle:version>
+            <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TS0049/v-cap-releases/releases/download/v1.22.0/V-RKU-v1.22.0.zip" length="13282053" type="application/octet-stream" sparkle:edSignature="FIRYpsFui/orPJk+Vh6oO6HqCUf90rQeJrWxDxvTh1ecEuMOUNWk43vSlhSHL4vpmJnDXW0R2t1k9u05CZZ7Cw=="/>
+        </item>
+        <item>
             <title>1.21.0</title>
             <pubDate>Tue, 10 Nov 2026 23:49:36 +0800</pubDate>
             <sparkle:version>1.21.0</sparkle:version>
